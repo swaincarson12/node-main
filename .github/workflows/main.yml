@@ -13,10 +13,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -39,10 +35,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -65,10 +57,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -91,10 +79,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -117,10 +101,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -143,10 +123,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -169,10 +145,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -195,10 +167,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -221,10 +189,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -247,10 +211,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -273,10 +233,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -299,10 +255,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -325,10 +277,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -351,10 +299,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -377,10 +321,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -403,10 +343,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -429,10 +365,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -455,10 +387,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -481,10 +409,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -507,10 +431,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -533,10 +453,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -559,10 +475,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -585,10 +497,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
@@ -611,10 +519,6 @@ jobs:
  
     steps:
       - uses: actions/checkout@v4
-      - name: Use Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22.5.1
       - run: mkdir runner
       - name: Setup App
         working-directory: ./runner
